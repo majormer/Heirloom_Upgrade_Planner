@@ -1,0 +1,28 @@
+# WoW AddOn Development
+*.bak
+*.tmp
+*~
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Development and documentation (not needed in packaged addon)
+docs/
+.github/
+
+# Git artifacts from other repos
+.gitlab-ci.yml
+.gitlab/
+
+# Build artifacts
+build/
+*.zip
+
+# Local testing/config
+HUP_Config_backup.lua
+test_*.lua

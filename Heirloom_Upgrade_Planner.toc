@@ -1,0 +1,21 @@
+## Interface: 120000, 120001
+## Title: Heirloom Upgrade Planner
+## Notes: Plan heirloom upgrades for any class. Generates a shopping list of upgrade tokens and gold costs.
+## Author: majormer
+## Version: 1.0.0
+## Category: Collections
+## IconTexture: Interface\AddOns\Heirloom_Upgrade_Planner\images\HeirloomUpgradePlanner.png
+## Dependencies: Blizzard_Collections
+## OptionalDeps: TomTom, LibStub, LibDataBroker-1.1, LibDBIcon-1.0
+## SavedVariables: HUP_Config
+
+## X-Curse-Project-ID: TBD
+## X-WoWI-ID: TBD
+## X-Category: Collections
+## X-License: MIT
+## X-Website: https://github.com/majormer/Heirloom_Upgrade_Planner
+
+Data.lua
+Debug.lua
+Minimap.lua
+Core.lua

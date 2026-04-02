@@ -1,0 +1,14 @@
+package-as: Heirloom_Upgrade_Planner
+
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - docs
+  - .git
+  - .gitignore
+  - .github
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
