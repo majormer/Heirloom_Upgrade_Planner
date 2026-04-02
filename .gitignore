@@ -11,8 +11,7 @@
 .DS_Store
 Thumbs.db
 
-# Development and documentation (not needed in packaged addon)
-docs/
+# Development artifacts (not needed in packaged addon; also excluded via .pkgmeta)
 .github/
 
 # Git artifacts from other repos
